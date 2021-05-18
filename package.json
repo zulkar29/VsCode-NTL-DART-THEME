@@ -1,0 +1,22 @@
+{
+    "name": "NTLDark",
+    "displayName": "NTL Dark ",
+    "description": "Developer eye friendlily theme for long time VS code Users",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "publisher":"ZulkarNayin",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NTL Dark ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NTL Dark -color-theme.json"
+            }
+        ]
+    }
+}
